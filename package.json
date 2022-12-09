@@ -1,5 +1,4 @@
-{ "homepage": "https://saphal47.github.io/TextApp",
-  "name": "text-app",
+{  "name": "text-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
